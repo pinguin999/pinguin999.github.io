@@ -1,45 +1,44 @@
-name = "Jake Gyllenhaal"
-description = "Accomplished actor, captivating with versatility and charisma."
-keywords = "Jake Gyllenhaal, actor, filmography, awards, versatile performances, Hollywood"
-image = "jake.webp"
+name = "Kolja Lubitz"
+description = "Pythonic web developer by day. Indie Game Developer at night 🎮"
+keywords = "Kolja Lubitz, python, django, ALPACA, game engine, point and click"
+image = "kolja.jpeg"
 theme = "dark"
 primary_color = "#d81b60"
 text_align = "center"
-gtag_id = "G-33WB8LVHR6"
-base_url = "https://thevahidal.github.io/jake"
+base_url = "https://pinguin999.github.io/"
 
 [[sections]]
-title = "Movies"
-description = "Here are some of my movies"
+title = "Game Dev"
+description = "Here are my game dev projects"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-title = "Nightcrawler"
-description = "A mesmerizing thriller delving into the dark world of crime journalism"
-url = "https://www.imdb.com/title/tt2872718/"
+title = "Portal Dogs"
+description = "As king of the dogs your mission is to find all your loyal subjects and guide them to the portal."
+url = "https://portaldogs.com/"
 [[sections.items]]
-title = "Brokeback Mountain"
-description = "A groundbreaking romantic drama challenging societal expectations"
-url = "https://www.imdb.com/title/tt0388795/"
-[[sections.items]]
-title = "Prisoners"
-description = "A gripping thriller entangling a detective in a web of secrets during a kidnapping investigation"
-url = "https://www.imdb.com/title/tt1392214/"
+title = "ALPACA Engine"
+description = "A Library for Point And Click Adventures"
+url = "https://alpaca-engine.de/"
+# [[sections.items]]
+# title = "Prisoners"
+# description = "A gripping thriller entangling a detective in a web of secrets during a kidnapping investigation"
+# url = "https://www.imdb.com/title/tt1392214/"
 
 [[sections]]
 title = "Links"
-description = "Look for me on these websites"
+description = "Find me on the web"
 direction = "row"
 item_style = "filled"
 [[sections.items]]
-title = "Instagram"
-url = "https://www.instagram.com/jakegyllenhaal"
+title = "X"
+url = "https://x.com/Pinguin666"
 [[sections.items]]
-title = "IMDb"
-url = "https://www.imdb.com/name/nm0350453/"
+title = "Mastodon"
+url = "https://mastodon.gamedev.place/@pinguin"
 [[sections.items]]
-title = "Wikipedia"
-url = "https://en.wikipedia.org/wiki/Jake_Gyllenhaal"
-[[sections.items]]
-title = "Rotten Tomatoes"
-url = "https://www.rottentomatoes.com/celebrity/jake_gyllenhaal"
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/kolja-lubitz-10b9112a/"
+# [[sections.items]]
+# title = "Rotten Tomatoes"
+# url = "https://www.rottentomatoes.com/celebrity/jake_gyllenhaal"
