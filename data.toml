@@ -20,10 +20,10 @@ url = "https://portaldogs.com/"
 title = "ALPACA Engine"
 description = "A Library for Point And Click Adventures"
 url = "https://alpaca-engine.de/"
-# [[sections.items]]
-# title = "Prisoners"
-# description = "A gripping thriller entangling a detective in a web of secrets during a kidnapping investigation"
-# url = "https://www.imdb.com/title/tt1392214/"
+[[sections.items]]
+title = "Hobby Spieleentwickler Podcast"
+description = "Zwei Softwareentwickler und Spiele-Enthusiasten entwickeln in ihrer Freizeit Videospiele."
+url = "https://hobbyspieleentwicklerpodcast.de/"
 
 [[sections]]
 title = "Links"
